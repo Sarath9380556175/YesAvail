@@ -1,0 +1,68 @@
+
+.skr{
+    background-color:orange;
+    height: 50px;
+}
+
+.tkr{
+    
+    padding-top: 9px;
+    padding-left: 9px;
+    background: white;
+    display: inline-block;
+    border-radius: 50%;
+    width: 46px;
+    height: 39px;
+    margin-left: 27px;
+    margin-top: 5px;
+}
+
+.gopal{
+ margin-top: -35px;
+    position: absolute;
+    inset: 50% auto auto 50%;
+    border: 6px solid black;
+    background:saddlebrown;
+    overflow: auto;
+    border-radius: 4px;
+    outline: none;
+    padding:10px 80px 40px 80px;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-width:400px)
+{
+    .tkr{
+        margin-left: 5px;
+    }
+}
+
+
+.sarath{
+    width: 230px;
+    height: 150px;
+    background-color: white;
+    margin-left: 20px;
+}
+
+@media only screen and (max-width:400px)
+{
+    
+.sarath{
+    margin-left:30px ;
+}
+
+}
+
+.cart{
+    color:cornsilk;
+    background-color: red;
+    border-radius: 50%;
+    padding: 1px 8px 1px 8px;
+}
+
+.kkr{
+    background-color: orange;
+    height: 50px;
+}
